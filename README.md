@@ -1,11 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="center">A recent graduate with a second-class honors degree in Computer Information Systems (CIS) . Passionate on data analysis and data science</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
